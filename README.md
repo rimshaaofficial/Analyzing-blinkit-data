@@ -118,5 +118,7 @@ Improved ability to derive insights from raw data
 
 ## Authors
 
-- [@rimshaaofficial](https://www.github.com/rimshaaofficial)
+- [Github](https://www.github.com/rimshaaofficial)
+
+- [Linkedin](https://www.linkedin.com/in/rimshaofficial/)
 
