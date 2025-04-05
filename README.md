@@ -3,10 +3,10 @@
 I designed and developed this interactive Power BI dashboard to analyze and visualize grocery sales data for BlinkIT, showcasing my ability to extract meaningful insights from raw data. Starting with a structured dataset containing item-level and outlet-level attributes, I performed data cleaning, transformation, and modeling within Power BI to prepare the data for analysis.
 
 Project Overview:
-The dashboard is built using a dataset that includes various features like:
-Item Details: Type, Fat Content, Weight, Visibility
-Outlet Information: Establishment Year, Location Type, Size, and Type
-Sales Metrics: Total Sales and Customer Ratings
+-The dashboard is built using a dataset that includes various features like:
+-Item Details: Type, Fat Content, Weight, Visibility
+-Outlet Information: Establishment Year, Location Type, Size, and Type
+-Sales Metrics: Total Sales and Customer Ratings
 
 Key Insights Provided:
 Top Performing Items: Visual breakdown of best-selling items by category.
