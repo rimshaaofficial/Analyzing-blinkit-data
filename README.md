@@ -97,8 +97,6 @@ Marketing teams target region-specific promotions
 
 ## Download
 
-To download my-project 
-
 To open this project locally:
 
 Clone the repository
