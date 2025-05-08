@@ -96,7 +96,8 @@ Marketing teams target region-specific promotions
 
 
 ## Snapshot of the project
-[Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/rimshaaofficial/Analyzing-blinkit-data/blob/main/Snapshot%20of%20Dashboard.png))
+![Dashboard Preview](https://github.com/rimshaaofficial/Analyzing-blinkit-data/blob/main/Snapshot%20of%20Dashboard.png)
+
 ## Download
 
 To open this project locally:
